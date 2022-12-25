@@ -2,7 +2,7 @@
   "name": "cal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ALphiS7x.github.io/Calculato",
+  "homepage": "https://alphis7x.github.io/Calculato",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
