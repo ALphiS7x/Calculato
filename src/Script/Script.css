@@ -1,5 +1,5 @@
 .conteiner{
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: #253039;
     height: 1000px;
     display: flex;
     flex-direction: column;
@@ -93,7 +93,7 @@
     border: 2px solid black;
     cursor: pointer;
     border-radius: 5%;
-    background: rgb(255, 104, 104);
+    background: rgb(193, 85, 85);
 }
 
 .button1:hover{
