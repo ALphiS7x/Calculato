@@ -120,22 +120,3 @@
     font-weight: bold;
 
 }
-
-@media screen and (min-width: 700px) and (max-width: 1500px) {
-    body {
-        background-color: #253039;;
-    }
-}
-
-@media screen and (min-width: 0px) and (max-width: 699px) {
-    body {
-        background: blue;
-    }
-}
-
-@media screen and (orientation: portrait) {
-    h1 {
-        display: none;
-    }
-}
-

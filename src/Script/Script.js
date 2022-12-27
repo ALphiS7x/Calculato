@@ -20,7 +20,6 @@ export const Script = () => {
 
     return(
         <div className='conteiner'>
-            <h1>Горизонтально</h1>
             <div className='tap'>
                 <input className='inp' type='text' placeholder='0' value={clik}></input>
                 <div className='grid'>
