@@ -1,5 +1,4 @@
 .conteiner{
-    background: #253039;
     height: 1000px;
     display: flex;
     flex-direction: column;
@@ -121,3 +120,22 @@
     font-weight: bold;
 
 }
+
+@media screen and (min-width: 700px) and (max-width: 1200px) {
+    body {
+        background-color: #253039;;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 699px) {
+    body {
+        background: blue;
+    }
+}
+
+@media screen and (orientation: portrait) {
+    h1 {
+        display: none;
+    }
+}
+
